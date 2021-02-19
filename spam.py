@@ -1,11 +1,11 @@
-#Xractz
+#MR VIRUS SPM
 #IndoSec
 
 import time, re, sys
 from requests import Session
 s = Session()
 
-print("Spam Call by Xractz - IndoSec\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (ex: 62xxxxx29)")
+print("Spam Call by MR VIRUS SPM - IndoSec\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (ex: 62xxxxx29)")
 try:
 	no = int(input("No    : "))
 	jml = int(input("Count : "))
